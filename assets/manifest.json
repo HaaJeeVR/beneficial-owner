@@ -1969,6 +1969,35 @@
           "height": 720
         }
       ]
+    },
+    {
+      "id": "train-01",
+      "kind": "prop",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "train",
+      "original": {
+        "file": "assets/incoming/train-01.png",
+        "width": 1536,
+        "height": 1024
+      },
+      "files": [
+        {
+          "path": "assets/train-01-120.webp",
+          "width": 120,
+          "height": 18
+        },
+        {
+          "path": "assets/train-01-240.webp",
+          "width": 240,
+          "height": 35
+        },
+        {
+          "path": "assets/train-01-360.webp",
+          "width": 360,
+          "height": 53
+        }
+      ]
     }
   ]
 }
