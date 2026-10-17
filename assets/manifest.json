@@ -1,0 +1,1974 @@
+{
+  "version": 2,
+  "assets": [
+    {
+      "id": "client-mandate-04",
+      "kind": "portrait",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "mandate",
+      "original": {
+        "file": "assets/incoming/client-mandate-04.png",
+        "width": 1086,
+        "height": 1448
+      },
+      "files": [
+        {
+          "path": "assets/client-mandate-04-240.webp",
+          "width": 240,
+          "height": 320
+        },
+        {
+          "path": "assets/client-mandate-04-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "path": "assets/client-mandate-04-480.webp",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "focus": {
+        "rect": {
+          "left": 206,
+          "top": 87,
+          "width": 608,
+          "height": 608
+        },
+        "files": [
+          {
+            "path": "assets/client-mandate-04-focus-128.webp",
+            "width": 128,
+            "height": 128
+          },
+          {
+            "path": "assets/client-mandate-04-focus-192.webp",
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "head": {
+        "rect": {
+          "left": 130,
+          "top": 0,
+          "width": 760,
+          "height": 1013
+        },
+        "files": [
+          {
+            "path": "assets/client-mandate-04-head-96.webp",
+            "width": 96,
+            "height": 128
+          },
+          {
+            "path": "assets/client-mandate-04-head-144.webp",
+            "width": 144,
+            "height": 192
+          },
+          {
+            "path": "assets/client-mandate-04-head-216.webp",
+            "width": 216,
+            "height": 288
+          }
+        ]
+      }
+    },
+    {
+      "id": "client-count-03",
+      "kind": "portrait",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "count",
+      "original": {
+        "file": "assets/incoming/client-count-03.png",
+        "width": 1086,
+        "height": 1448
+      },
+      "files": [
+        {
+          "path": "assets/client-count-03-240.webp",
+          "width": 240,
+          "height": 320
+        },
+        {
+          "path": "assets/client-count-03-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "path": "assets/client-count-03-480.webp",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "focus": {
+        "rect": {
+          "left": 130,
+          "top": 50,
+          "width": 652,
+          "height": 652
+        },
+        "files": [
+          {
+            "path": "assets/client-count-03-focus-128.webp",
+            "width": 128,
+            "height": 128
+          },
+          {
+            "path": "assets/client-count-03-focus-192.webp",
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "head": {
+        "rect": {
+          "left": 54,
+          "top": 0,
+          "width": 804,
+          "height": 1072
+        },
+        "files": [
+          {
+            "path": "assets/client-count-03-head-96.webp",
+            "width": 96,
+            "height": 128
+          },
+          {
+            "path": "assets/client-count-03-head-144.webp",
+            "width": 144,
+            "height": 192
+          },
+          {
+            "path": "assets/client-count-03-head-216.webp",
+            "width": 216,
+            "height": 288
+          }
+        ]
+      }
+    },
+    {
+      "id": "client-heiress-03",
+      "kind": "portrait",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "heiress",
+      "original": {
+        "file": "assets/incoming/client-heiress-03.png",
+        "width": 1086,
+        "height": 1448
+      },
+      "files": [
+        {
+          "path": "assets/client-heiress-03-240.webp",
+          "width": 240,
+          "height": 320
+        },
+        {
+          "path": "assets/client-heiress-03-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "path": "assets/client-heiress-03-480.webp",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "focus": {
+        "rect": {
+          "left": 119,
+          "top": 61,
+          "width": 630,
+          "height": 630
+        },
+        "files": [
+          {
+            "path": "assets/client-heiress-03-focus-128.webp",
+            "width": 128,
+            "height": 128
+          },
+          {
+            "path": "assets/client-heiress-03-focus-192.webp",
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "head": {
+        "rect": {
+          "left": 54,
+          "top": 0,
+          "width": 804,
+          "height": 1072
+        },
+        "files": [
+          {
+            "path": "assets/client-heiress-03-head-96.webp",
+            "width": 96,
+            "height": 128
+          },
+          {
+            "path": "assets/client-heiress-03-head-144.webp",
+            "width": 144,
+            "height": 192
+          },
+          {
+            "path": "assets/client-heiress-03-head-216.webp",
+            "width": 216,
+            "height": 288
+          }
+        ]
+      }
+    },
+    {
+      "id": "client-demarsac-03",
+      "kind": "portrait",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "demarsac",
+      "original": {
+        "file": "assets/incoming/client-demarsac-03.png",
+        "width": 1086,
+        "height": 1448
+      },
+      "files": [
+        {
+          "path": "assets/client-demarsac-03-240.webp",
+          "width": 240,
+          "height": 320
+        },
+        {
+          "path": "assets/client-demarsac-03-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "path": "assets/client-demarsac-03-480.webp",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "focus": {
+        "rect": {
+          "left": 250,
+          "top": 47,
+          "width": 630,
+          "height": 630
+        },
+        "files": [
+          {
+            "path": "assets/client-demarsac-03-focus-128.webp",
+            "width": 128,
+            "height": 128
+          },
+          {
+            "path": "assets/client-demarsac-03-focus-192.webp",
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "head": {
+        "rect": {
+          "left": 174,
+          "top": 0,
+          "width": 782,
+          "height": 1043
+        },
+        "files": [
+          {
+            "path": "assets/client-demarsac-03-head-96.webp",
+            "width": 96,
+            "height": 128
+          },
+          {
+            "path": "assets/client-demarsac-03-head-144.webp",
+            "width": 144,
+            "height": 192
+          },
+          {
+            "path": "assets/client-demarsac-03-head-216.webp",
+            "width": 216,
+            "height": 288
+          }
+        ]
+      }
+    },
+    {
+      "id": "client-patriarch-03",
+      "kind": "portrait",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "patriarch",
+      "original": {
+        "file": "assets/incoming/client-patriarch-03.png",
+        "width": 1086,
+        "height": 1448
+      },
+      "files": [
+        {
+          "path": "assets/client-patriarch-03-240.webp",
+          "width": 240,
+          "height": 320
+        },
+        {
+          "path": "assets/client-patriarch-03-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "path": "assets/client-patriarch-03-480.webp",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "focus": {
+        "rect": {
+          "left": 185,
+          "top": 69,
+          "width": 586,
+          "height": 586
+        },
+        "files": [
+          {
+            "path": "assets/client-patriarch-03-focus-128.webp",
+            "width": 128,
+            "height": 128
+          },
+          {
+            "path": "assets/client-patriarch-03-focus-192.webp",
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "head": {
+        "rect": {
+          "left": 109,
+          "top": 0,
+          "width": 738,
+          "height": 984
+        },
+        "files": [
+          {
+            "path": "assets/client-patriarch-03-head-96.webp",
+            "width": 96,
+            "height": 128
+          },
+          {
+            "path": "assets/client-patriarch-03-head-144.webp",
+            "width": 144,
+            "height": 192
+          },
+          {
+            "path": "assets/client-patriarch-03-head-216.webp",
+            "width": 216,
+            "height": 288
+          }
+        ]
+      }
+    },
+    {
+      "id": "client-dynast-03",
+      "kind": "portrait",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "dynast",
+      "original": {
+        "file": "assets/incoming/client-dynast-03.png",
+        "width": 1086,
+        "height": 1448
+      },
+      "files": [
+        {
+          "path": "assets/client-dynast-03-240.webp",
+          "width": 240,
+          "height": 320
+        },
+        {
+          "path": "assets/client-dynast-03-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "path": "assets/client-dynast-03-480.webp",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "focus": {
+        "rect": {
+          "left": 152,
+          "top": 58,
+          "width": 608,
+          "height": 608
+        },
+        "files": [
+          {
+            "path": "assets/client-dynast-03-focus-128.webp",
+            "width": 128,
+            "height": 128
+          },
+          {
+            "path": "assets/client-dynast-03-focus-192.webp",
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "head": {
+        "rect": {
+          "left": 98,
+          "top": 0,
+          "width": 760,
+          "height": 1013
+        },
+        "files": [
+          {
+            "path": "assets/client-dynast-03-head-96.webp",
+            "width": 96,
+            "height": 128
+          },
+          {
+            "path": "assets/client-dynast-03-head-144.webp",
+            "width": 144,
+            "height": 192
+          },
+          {
+            "path": "assets/client-dynast-03-head-216.webp",
+            "width": 216,
+            "height": 288
+          }
+        ]
+      }
+    },
+    {
+      "id": "client-executive-03",
+      "kind": "portrait",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "executive",
+      "original": {
+        "file": "assets/incoming/client-executive-03.png",
+        "width": 1086,
+        "height": 1448
+      },
+      "files": [
+        {
+          "path": "assets/client-executive-03-240.webp",
+          "width": 240,
+          "height": 320
+        },
+        {
+          "path": "assets/client-executive-03-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "path": "assets/client-executive-03-480.webp",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "focus": {
+        "rect": {
+          "left": 206,
+          "top": 72,
+          "width": 608,
+          "height": 608
+        },
+        "files": [
+          {
+            "path": "assets/client-executive-03-focus-128.webp",
+            "width": 128,
+            "height": 128
+          },
+          {
+            "path": "assets/client-executive-03-focus-192.webp",
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "head": {
+        "rect": {
+          "left": 130,
+          "top": 0,
+          "width": 760,
+          "height": 1013
+        },
+        "files": [
+          {
+            "path": "assets/client-executive-03-head-96.webp",
+            "width": 96,
+            "height": 128
+          },
+          {
+            "path": "assets/client-executive-03-head-144.webp",
+            "width": 144,
+            "height": 192
+          },
+          {
+            "path": "assets/client-executive-03-head-216.webp",
+            "width": 216,
+            "height": 288
+          }
+        ]
+      }
+    },
+    {
+      "id": "client-trader-03",
+      "kind": "portrait",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "trader",
+      "original": {
+        "file": "assets/incoming/client-trader-03.png",
+        "width": 1086,
+        "height": 1448
+      },
+      "files": [
+        {
+          "path": "assets/client-trader-03-240.webp",
+          "width": 240,
+          "height": 320
+        },
+        {
+          "path": "assets/client-trader-03-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "path": "assets/client-trader-03-480.webp",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "focus": {
+        "rect": {
+          "left": 239,
+          "top": 72,
+          "width": 608,
+          "height": 608
+        },
+        "files": [
+          {
+            "path": "assets/client-trader-03-focus-128.webp",
+            "width": 128,
+            "height": 128
+          },
+          {
+            "path": "assets/client-trader-03-focus-192.webp",
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "head": {
+        "rect": {
+          "left": 152,
+          "top": 0,
+          "width": 782,
+          "height": 1043
+        },
+        "files": [
+          {
+            "path": "assets/client-trader-03-head-96.webp",
+            "width": 96,
+            "height": 128
+          },
+          {
+            "path": "assets/client-trader-03-head-144.webp",
+            "width": 144,
+            "height": 192
+          },
+          {
+            "path": "assets/client-trader-03-head-216.webp",
+            "width": 216,
+            "height": 288
+          }
+        ]
+      }
+    },
+    {
+      "id": "client-founder-03",
+      "kind": "portrait",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "founder",
+      "original": {
+        "file": "assets/incoming/client-founder-03.png",
+        "width": 1086,
+        "height": 1448
+      },
+      "files": [
+        {
+          "path": "assets/client-founder-03-240.webp",
+          "width": 240,
+          "height": 320
+        },
+        {
+          "path": "assets/client-founder-03-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "path": "assets/client-founder-03-480.webp",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "focus": {
+        "rect": {
+          "left": 163,
+          "top": 55,
+          "width": 586,
+          "height": 586
+        },
+        "files": [
+          {
+            "path": "assets/client-founder-03-focus-128.webp",
+            "width": 128,
+            "height": 128
+          },
+          {
+            "path": "assets/client-founder-03-focus-192.webp",
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "head": {
+        "rect": {
+          "left": 109,
+          "top": 0,
+          "width": 738,
+          "height": 984
+        },
+        "files": [
+          {
+            "path": "assets/client-founder-03-head-96.webp",
+            "width": 96,
+            "height": 128
+          },
+          {
+            "path": "assets/client-founder-03-head-144.webp",
+            "width": 144,
+            "height": 192
+          },
+          {
+            "path": "assets/client-founder-03-head-216.webp",
+            "width": 216,
+            "height": 288
+          }
+        ]
+      }
+    },
+    {
+      "id": "client-entrepreneur-03",
+      "kind": "portrait",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "entrepreneur",
+      "original": {
+        "file": "assets/incoming/client-entrepreneur-03.png",
+        "width": 1086,
+        "height": 1448
+      },
+      "files": [
+        {
+          "path": "assets/client-entrepreneur-03-240.webp",
+          "width": 240,
+          "height": 320
+        },
+        {
+          "path": "assets/client-entrepreneur-03-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "path": "assets/client-entrepreneur-03-480.webp",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "focus": {
+        "rect": {
+          "left": 250,
+          "top": 55,
+          "width": 586,
+          "height": 586
+        },
+        "files": [
+          {
+            "path": "assets/client-entrepreneur-03-focus-128.webp",
+            "width": 128,
+            "height": 128
+          },
+          {
+            "path": "assets/client-entrepreneur-03-focus-192.webp",
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "head": {
+        "rect": {
+          "left": 174,
+          "top": 0,
+          "width": 738,
+          "height": 984
+        },
+        "files": [
+          {
+            "path": "assets/client-entrepreneur-03-head-96.webp",
+            "width": 96,
+            "height": 128
+          },
+          {
+            "path": "assets/client-entrepreneur-03-head-144.webp",
+            "width": 144,
+            "height": 192
+          },
+          {
+            "path": "assets/client-entrepreneur-03-head-216.webp",
+            "width": 216,
+            "height": 288
+          }
+        ]
+      }
+    },
+    {
+      "id": "client-widow-03",
+      "kind": "portrait",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "widow",
+      "original": {
+        "file": "assets/incoming/client-widow-03.png",
+        "width": 1086,
+        "height": 1448
+      },
+      "files": [
+        {
+          "path": "assets/client-widow-03-240.webp",
+          "width": 240,
+          "height": 320
+        },
+        {
+          "path": "assets/client-widow-03-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "path": "assets/client-widow-03-480.webp",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "focus": {
+        "rect": {
+          "left": 207,
+          "top": 141,
+          "width": 673,
+          "height": 673
+        },
+        "files": [
+          {
+            "path": "assets/client-widow-03-focus-128.webp",
+            "width": 128,
+            "height": 128
+          },
+          {
+            "path": "assets/client-widow-03-focus-192.webp",
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "head": {
+        "rect": {
+          "left": 131,
+          "top": 0,
+          "width": 825,
+          "height": 1100
+        },
+        "files": [
+          {
+            "path": "assets/client-widow-03-head-96.webp",
+            "width": 96,
+            "height": 128
+          },
+          {
+            "path": "assets/client-widow-03-head-144.webp",
+            "width": 144,
+            "height": 192
+          },
+          {
+            "path": "assets/client-widow-03-head-216.webp",
+            "width": 216,
+            "height": 288
+          }
+        ]
+      }
+    },
+    {
+      "id": "client-dentist-04",
+      "kind": "portrait",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "dentist",
+      "original": {
+        "file": "assets/incoming/client-dentist-04.png",
+        "width": 1086,
+        "height": 1448
+      },
+      "files": [
+        {
+          "path": "assets/client-dentist-04-240.webp",
+          "width": 240,
+          "height": 320
+        },
+        {
+          "path": "assets/client-dentist-04-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "path": "assets/client-dentist-04-480.webp",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "focus": {
+        "rect": {
+          "left": 217,
+          "top": 123,
+          "width": 652,
+          "height": 652
+        },
+        "files": [
+          {
+            "path": "assets/client-dentist-04-focus-128.webp",
+            "width": 128,
+            "height": 128
+          },
+          {
+            "path": "assets/client-dentist-04-focus-192.webp",
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "head": {
+        "rect": {
+          "left": 141,
+          "top": 0,
+          "width": 804,
+          "height": 1072
+        },
+        "files": [
+          {
+            "path": "assets/client-dentist-04-head-96.webp",
+            "width": 96,
+            "height": 128
+          },
+          {
+            "path": "assets/client-dentist-04-head-144.webp",
+            "width": 144,
+            "height": 192
+          },
+          {
+            "path": "assets/client-dentist-04-head-216.webp",
+            "width": 216,
+            "height": 288
+          }
+        ]
+      }
+    },
+    {
+      "id": "client-executor-03",
+      "kind": "portrait",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "executor",
+      "original": {
+        "file": "assets/incoming/client-executor-03.png",
+        "width": 1086,
+        "height": 1448
+      },
+      "files": [
+        {
+          "path": "assets/client-executor-03-240.webp",
+          "width": 240,
+          "height": 320
+        },
+        {
+          "path": "assets/client-executor-03-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "path": "assets/client-executor-03-480.webp",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "focus": {
+        "rect": {
+          "left": 185,
+          "top": 199,
+          "width": 586,
+          "height": 586
+        },
+        "files": [
+          {
+            "path": "assets/client-executor-03-focus-128.webp",
+            "width": 128,
+            "height": 128
+          },
+          {
+            "path": "assets/client-executor-03-focus-192.webp",
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "head": {
+        "rect": {
+          "left": 141,
+          "top": 160,
+          "width": 673,
+          "height": 897
+        },
+        "files": [
+          {
+            "path": "assets/client-executor-03-head-96.webp",
+            "width": 96,
+            "height": 128
+          },
+          {
+            "path": "assets/client-executor-03-head-144.webp",
+            "width": 144,
+            "height": 192
+          },
+          {
+            "path": "assets/client-executor-03-head-216.webp",
+            "width": 216,
+            "height": 288
+          }
+        ]
+      }
+    },
+    {
+      "id": "staff-keller-03",
+      "kind": "portrait",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "keller",
+      "original": {
+        "file": "assets/incoming/staff-keller-03.png",
+        "width": 1086,
+        "height": 1448
+      },
+      "files": [
+        {
+          "path": "assets/staff-keller-03-240.webp",
+          "width": 240,
+          "height": 320
+        },
+        {
+          "path": "assets/staff-keller-03-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "path": "assets/staff-keller-03-480.webp",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "focus": {
+        "rect": {
+          "left": 174,
+          "top": 76,
+          "width": 630,
+          "height": 630
+        },
+        "files": [
+          {
+            "path": "assets/staff-keller-03-focus-128.webp",
+            "width": 128,
+            "height": 128
+          },
+          {
+            "path": "assets/staff-keller-03-focus-192.webp",
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "head": {
+        "rect": {
+          "left": 98,
+          "top": 0,
+          "width": 782,
+          "height": 1043
+        },
+        "files": [
+          {
+            "path": "assets/staff-keller-03-head-96.webp",
+            "width": 96,
+            "height": 128
+          },
+          {
+            "path": "assets/staff-keller-03-head-144.webp",
+            "width": 144,
+            "height": 192
+          },
+          {
+            "path": "assets/staff-keller-03-head-216.webp",
+            "width": 216,
+            "height": 288
+          }
+        ]
+      }
+    },
+    {
+      "id": "staff-beat-03",
+      "kind": "portrait",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "beat",
+      "original": {
+        "file": "assets/incoming/staff-beat-03.png",
+        "width": 1086,
+        "height": 1448
+      },
+      "files": [
+        {
+          "path": "assets/staff-beat-03-240.webp",
+          "width": 240,
+          "height": 320
+        },
+        {
+          "path": "assets/staff-beat-03-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "path": "assets/staff-beat-03-480.webp",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "focus": {
+        "rect": {
+          "left": 130,
+          "top": 108,
+          "width": 652,
+          "height": 652
+        },
+        "files": [
+          {
+            "path": "assets/staff-beat-03-focus-128.webp",
+            "width": 128,
+            "height": 128
+          },
+          {
+            "path": "assets/staff-beat-03-focus-192.webp",
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "head": {
+        "rect": {
+          "left": 54,
+          "top": 0,
+          "width": 804,
+          "height": 1072
+        },
+        "files": [
+          {
+            "path": "assets/staff-beat-03-head-96.webp",
+            "width": 96,
+            "height": 128
+          },
+          {
+            "path": "assets/staff-beat-03-head-144.webp",
+            "width": 144,
+            "height": 192
+          },
+          {
+            "path": "assets/staff-beat-03-head-216.webp",
+            "width": 216,
+            "height": 288
+          }
+        ]
+      }
+    },
+    {
+      "id": "board-hartleyvane-03",
+      "kind": "portrait",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "chairman",
+      "original": {
+        "file": "assets/incoming/style-test-chairman-01.png",
+        "width": 1086,
+        "height": 1448
+      },
+      "files": [
+        {
+          "path": "assets/board-hartleyvane-03-240.webp",
+          "width": 240,
+          "height": 320
+        },
+        {
+          "path": "assets/board-hartleyvane-03-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "path": "assets/board-hartleyvane-03-480.webp",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "focus": {
+        "rect": {
+          "left": 120,
+          "top": 87,
+          "width": 608,
+          "height": 608
+        },
+        "files": [
+          {
+            "path": "assets/board-hartleyvane-03-focus-128.webp",
+            "width": 128,
+            "height": 128
+          },
+          {
+            "path": "assets/board-hartleyvane-03-focus-192.webp",
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "head": {
+        "rect": {
+          "left": 108,
+          "top": 0,
+          "width": 652,
+          "height": 869
+        },
+        "files": [
+          {
+            "path": "assets/board-hartleyvane-03-head-96.webp",
+            "width": 96,
+            "height": 128
+          },
+          {
+            "path": "assets/board-hartleyvane-03-head-144.webp",
+            "width": 144,
+            "height": 192
+          },
+          {
+            "path": "assets/board-hartleyvane-03-head-216.webp",
+            "width": 216,
+            "height": 288
+          }
+        ]
+      }
+    },
+    {
+      "id": "board-hartleyvane-04-neutral",
+      "kind": "portrait",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "chairman",
+      "expression": "neutral",
+      "original": {
+        "file": "assets/incoming/board-hartleyvane-expr-04.png",
+        "width": 1536,
+        "height": 1024,
+        "cut": {
+          "left": 0,
+          "top": 0,
+          "width": 512,
+          "height": 683
+        }
+      },
+      "files": [
+        {
+          "path": "assets/board-hartleyvane-04-neutral-240.webp",
+          "width": 240,
+          "height": 320
+        },
+        {
+          "path": "assets/board-hartleyvane-04-neutral-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "path": "assets/board-hartleyvane-04-neutral-480.webp",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "focus": {
+        "rect": {
+          "left": 26,
+          "top": 31,
+          "width": 430,
+          "height": 430
+        },
+        "files": [
+          {
+            "path": "assets/board-hartleyvane-04-neutral-focus-128.webp",
+            "width": 128,
+            "height": 128
+          },
+          {
+            "path": "assets/board-hartleyvane-04-neutral-focus-192.webp",
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "head": {
+        "rect": {
+          "left": 36,
+          "top": 0,
+          "width": 410,
+          "height": 547
+        },
+        "files": [
+          {
+            "path": "assets/board-hartleyvane-04-neutral-head-96.webp",
+            "width": 96,
+            "height": 128
+          },
+          {
+            "path": "assets/board-hartleyvane-04-neutral-head-144.webp",
+            "width": 144,
+            "height": 192
+          },
+          {
+            "path": "assets/board-hartleyvane-04-neutral-head-216.webp",
+            "width": 216,
+            "height": 288
+          }
+        ]
+      }
+    },
+    {
+      "id": "board-hartleyvane-04-pleased",
+      "kind": "portrait",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "chairman",
+      "expression": "pleased",
+      "original": {
+        "file": "assets/incoming/board-hartleyvane-expr-04.png",
+        "width": 1536,
+        "height": 1024,
+        "cut": {
+          "left": 499,
+          "top": 0,
+          "width": 512,
+          "height": 683
+        }
+      },
+      "files": [
+        {
+          "path": "assets/board-hartleyvane-04-pleased-240.webp",
+          "width": 240,
+          "height": 320
+        },
+        {
+          "path": "assets/board-hartleyvane-04-pleased-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "path": "assets/board-hartleyvane-04-pleased-480.webp",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "focus": {
+        "rect": {
+          "left": 525,
+          "top": 31,
+          "width": 430,
+          "height": 430
+        },
+        "files": [
+          {
+            "path": "assets/board-hartleyvane-04-pleased-focus-128.webp",
+            "width": 128,
+            "height": 128
+          },
+          {
+            "path": "assets/board-hartleyvane-04-pleased-focus-192.webp",
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "head": {
+        "rect": {
+          "left": 535,
+          "top": 0,
+          "width": 410,
+          "height": 547
+        },
+        "files": [
+          {
+            "path": "assets/board-hartleyvane-04-pleased-head-96.webp",
+            "width": 96,
+            "height": 128
+          },
+          {
+            "path": "assets/board-hartleyvane-04-pleased-head-144.webp",
+            "width": 144,
+            "height": 192
+          },
+          {
+            "path": "assets/board-hartleyvane-04-pleased-head-216.webp",
+            "width": 216,
+            "height": 288
+          }
+        ]
+      }
+    },
+    {
+      "id": "board-hartleyvane-04-disappointed",
+      "kind": "portrait",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "chairman",
+      "expression": "disappointed",
+      "original": {
+        "file": "assets/incoming/board-hartleyvane-expr-04.png",
+        "width": 1536,
+        "height": 1024,
+        "cut": {
+          "left": 1024,
+          "top": 61,
+          "width": 512,
+          "height": 683
+        }
+      },
+      "files": [
+        {
+          "path": "assets/board-hartleyvane-04-disappointed-240.webp",
+          "width": 240,
+          "height": 320
+        },
+        {
+          "path": "assets/board-hartleyvane-04-disappointed-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "path": "assets/board-hartleyvane-04-disappointed-480.webp",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "focus": {
+        "rect": {
+          "left": 1065,
+          "top": 119,
+          "width": 430,
+          "height": 430
+        },
+        "files": [
+          {
+            "path": "assets/board-hartleyvane-04-disappointed-focus-128.webp",
+            "width": 128,
+            "height": 128
+          },
+          {
+            "path": "assets/board-hartleyvane-04-disappointed-focus-192.webp",
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "head": {
+        "rect": {
+          "left": 1075,
+          "top": 61,
+          "width": 410,
+          "height": 547
+        },
+        "files": [
+          {
+            "path": "assets/board-hartleyvane-04-disappointed-head-96.webp",
+            "width": 96,
+            "height": 128
+          },
+          {
+            "path": "assets/board-hartleyvane-04-disappointed-head-144.webp",
+            "width": 144,
+            "height": 192
+          },
+          {
+            "path": "assets/board-hartleyvane-04-disappointed-head-216.webp",
+            "width": 216,
+            "height": 288
+          }
+        ]
+      }
+    },
+    {
+      "id": "regulator-imhof-03-neutral",
+      "kind": "portrait",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "imhof",
+      "expression": "neutral",
+      "original": {
+        "file": "assets/incoming/style-test-imhof-expr-02.png",
+        "width": 1536,
+        "height": 1024,
+        "cut": {
+          "left": 20,
+          "top": 0,
+          "width": 512,
+          "height": 683
+        }
+      },
+      "files": [
+        {
+          "path": "assets/regulator-imhof-03-neutral-240.webp",
+          "width": 240,
+          "height": 320
+        },
+        {
+          "path": "assets/regulator-imhof-03-neutral-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "path": "assets/regulator-imhof-03-neutral-480.webp",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "focus": {
+        "rect": {
+          "left": 61,
+          "top": 10,
+          "width": 430,
+          "height": 430
+        },
+        "files": [
+          {
+            "path": "assets/regulator-imhof-03-neutral-focus-128.webp",
+            "width": 128,
+            "height": 128
+          },
+          {
+            "path": "assets/regulator-imhof-03-neutral-focus-192.webp",
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "head": {
+        "rect": {
+          "left": 36,
+          "top": 0,
+          "width": 481,
+          "height": 641
+        },
+        "files": [
+          {
+            "path": "assets/regulator-imhof-03-neutral-head-96.webp",
+            "width": 96,
+            "height": 128
+          },
+          {
+            "path": "assets/regulator-imhof-03-neutral-head-144.webp",
+            "width": 144,
+            "height": 192
+          },
+          {
+            "path": "assets/regulator-imhof-03-neutral-head-216.webp",
+            "width": 216,
+            "height": 288
+          }
+        ]
+      }
+    },
+    {
+      "id": "regulator-imhof-03-suspicious",
+      "kind": "portrait",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "imhof",
+      "expression": "suspicious",
+      "original": {
+        "file": "assets/incoming/style-test-imhof-expr-02.png",
+        "width": 1536,
+        "height": 1024,
+        "cut": {
+          "left": 519,
+          "top": 0,
+          "width": 512,
+          "height": 683
+        }
+      },
+      "files": [
+        {
+          "path": "assets/regulator-imhof-03-suspicious-240.webp",
+          "width": 240,
+          "height": 320
+        },
+        {
+          "path": "assets/regulator-imhof-03-suspicious-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "path": "assets/regulator-imhof-03-suspicious-480.webp",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "focus": {
+        "rect": {
+          "left": 560,
+          "top": 24,
+          "width": 430,
+          "height": 430
+        },
+        "files": [
+          {
+            "path": "assets/regulator-imhof-03-suspicious-focus-128.webp",
+            "width": 128,
+            "height": 128
+          },
+          {
+            "path": "assets/regulator-imhof-03-suspicious-focus-192.webp",
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "head": {
+        "rect": {
+          "left": 535,
+          "top": 0,
+          "width": 481,
+          "height": 641
+        },
+        "files": [
+          {
+            "path": "assets/regulator-imhof-03-suspicious-head-96.webp",
+            "width": 96,
+            "height": 128
+          },
+          {
+            "path": "assets/regulator-imhof-03-suspicious-head-144.webp",
+            "width": 144,
+            "height": 192
+          },
+          {
+            "path": "assets/regulator-imhof-03-suspicious-head-216.webp",
+            "width": 216,
+            "height": 288
+          }
+        ]
+      }
+    },
+    {
+      "id": "regulator-imhof-03-satisfied",
+      "kind": "portrait",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "imhof",
+      "expression": "satisfied",
+      "original": {
+        "file": "assets/incoming/style-test-imhof-expr-02.png",
+        "width": 1536,
+        "height": 1024,
+        "cut": {
+          "left": 1024,
+          "top": 0,
+          "width": 512,
+          "height": 683
+        }
+      },
+      "files": [
+        {
+          "path": "assets/regulator-imhof-03-satisfied-240.webp",
+          "width": 240,
+          "height": 320
+        },
+        {
+          "path": "assets/regulator-imhof-03-satisfied-360.webp",
+          "width": 360,
+          "height": 480
+        },
+        {
+          "path": "assets/regulator-imhof-03-satisfied-480.webp",
+          "width": 480,
+          "height": 640
+        }
+      ],
+      "focus": {
+        "rect": {
+          "left": 1065,
+          "top": 10,
+          "width": 430,
+          "height": 430
+        },
+        "files": [
+          {
+            "path": "assets/regulator-imhof-03-satisfied-focus-128.webp",
+            "width": 128,
+            "height": 128
+          },
+          {
+            "path": "assets/regulator-imhof-03-satisfied-focus-192.webp",
+            "width": 192,
+            "height": 192
+          }
+        ]
+      },
+      "head": {
+        "rect": {
+          "left": 1040,
+          "top": 0,
+          "width": 481,
+          "height": 641
+        },
+        "files": [
+          {
+            "path": "assets/regulator-imhof-03-satisfied-head-96.webp",
+            "width": 96,
+            "height": 128
+          },
+          {
+            "path": "assets/regulator-imhof-03-satisfied-head-144.webp",
+            "width": 144,
+            "height": 192
+          },
+          {
+            "path": "assets/regulator-imhof-03-satisfied-head-216.webp",
+            "width": 216,
+            "height": 288
+          }
+        ]
+      }
+    },
+    {
+      "id": "office-zurich-04",
+      "kind": "office",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "zurich",
+      "original": {
+        "file": "assets/incoming/office-zurich-04.png",
+        "width": 1254,
+        "height": 1254
+      },
+      "files": [
+        {
+          "path": "assets/office-zurich-04-96.webp",
+          "width": 96,
+          "height": 120
+        },
+        {
+          "path": "assets/office-zurich-04-192.webp",
+          "width": 192,
+          "height": 240
+        },
+        {
+          "path": "assets/office-zurich-04-288.webp",
+          "width": 288,
+          "height": 361
+        }
+      ],
+      "anchor": {
+        "x": 0.5,
+        "y": 0.93
+      }
+    },
+    {
+      "id": "office-basel-01",
+      "kind": "office",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "basel",
+      "original": {
+        "file": "assets/incoming/office-basel-01.png",
+        "width": 1254,
+        "height": 1254
+      },
+      "files": [
+        {
+          "path": "assets/office-basel-01-96.webp",
+          "width": 96,
+          "height": 73
+        },
+        {
+          "path": "assets/office-basel-01-192.webp",
+          "width": 192,
+          "height": 145
+        },
+        {
+          "path": "assets/office-basel-01-288.webp",
+          "width": 288,
+          "height": 218
+        }
+      ],
+      "anchor": {
+        "x": 0.5,
+        "y": 0.95
+      }
+    },
+    {
+      "id": "office-luzern-01",
+      "kind": "office",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "luzern",
+      "original": {
+        "file": "assets/incoming/office-luzern-01.png",
+        "width": 1254,
+        "height": 1254
+      },
+      "files": [
+        {
+          "path": "assets/office-luzern-01-96.webp",
+          "width": 96,
+          "height": 111
+        },
+        {
+          "path": "assets/office-luzern-01-192.webp",
+          "width": 192,
+          "height": 222
+        },
+        {
+          "path": "assets/office-luzern-01-288.webp",
+          "width": 288,
+          "height": 332
+        }
+      ],
+      "anchor": {
+        "x": 0.5,
+        "y": 0.9
+      }
+    },
+    {
+      "id": "office-bern-02",
+      "kind": "office",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "bern",
+      "original": {
+        "file": "assets/incoming/office-bern-02.png",
+        "width": 1254,
+        "height": 1254
+      },
+      "files": [
+        {
+          "path": "assets/office-bern-02-96.webp",
+          "width": 96,
+          "height": 59
+        },
+        {
+          "path": "assets/office-bern-02-192.webp",
+          "width": 192,
+          "height": 118
+        },
+        {
+          "path": "assets/office-bern-02-288.webp",
+          "width": 288,
+          "height": 177
+        }
+      ],
+      "anchor": {
+        "x": 0.5,
+        "y": 0.95
+      }
+    },
+    {
+      "id": "office-lausanne-01",
+      "kind": "office",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "lausanne",
+      "original": {
+        "file": "assets/incoming/office-lausanne-01.png",
+        "width": 1254,
+        "height": 1254
+      },
+      "files": [
+        {
+          "path": "assets/office-lausanne-01-96.webp",
+          "width": 96,
+          "height": 47
+        },
+        {
+          "path": "assets/office-lausanne-01-192.webp",
+          "width": 192,
+          "height": 94
+        },
+        {
+          "path": "assets/office-lausanne-01-288.webp",
+          "width": 288,
+          "height": 141
+        }
+      ],
+      "anchor": {
+        "x": 0.5,
+        "y": 0.8
+      }
+    },
+    {
+      "id": "office-lugano-01",
+      "kind": "office",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "lugano",
+      "original": {
+        "file": "assets/incoming/office-lugano-01.png",
+        "width": 1254,
+        "height": 1254
+      },
+      "files": [
+        {
+          "path": "assets/office-lugano-01-96.webp",
+          "width": 96,
+          "height": 91
+        },
+        {
+          "path": "assets/office-lugano-01-192.webp",
+          "width": 192,
+          "height": 181
+        },
+        {
+          "path": "assets/office-lugano-01-288.webp",
+          "width": 288,
+          "height": 272
+        }
+      ],
+      "anchor": {
+        "x": 0.45,
+        "y": 0.95
+      }
+    },
+    {
+      "id": "office-geneva-02",
+      "kind": "office",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "geneva",
+      "original": {
+        "file": "assets/incoming/office-geneva-02.png",
+        "width": 1254,
+        "height": 1254
+      },
+      "files": [
+        {
+          "path": "assets/office-geneva-02-96.webp",
+          "width": 96,
+          "height": 91
+        },
+        {
+          "path": "assets/office-geneva-02-192.webp",
+          "width": 192,
+          "height": 182
+        },
+        {
+          "path": "assets/office-geneva-02-288.webp",
+          "width": 288,
+          "height": 274
+        }
+      ],
+      "anchor": {
+        "x": 0.4,
+        "y": 0.96
+      }
+    },
+    {
+      "id": "office-vaduz-01",
+      "kind": "office",
+      "status": "done",
+      "styleVersion": "caper-62",
+      "subject": "vaduz",
+      "original": {
+        "file": "assets/incoming/office-vaduz-01.png",
+        "width": 1254,
+        "height": 1254
+      },
+      "files": [
+        {
+          "path": "assets/office-vaduz-01-96.webp",
+          "width": 96,
+          "height": 118
+        },
+        {
+          "path": "assets/office-vaduz-01-192.webp",
+          "width": 192,
+          "height": 236
+        },
+        {
+          "path": "assets/office-vaduz-01-288.webp",
+          "width": 288,
+          "height": 354
+        }
+      ],
+      "anchor": {
+        "x": 0.5,
+        "y": 0.95
+      }
+    },
+    {
+      "id": "map-switzerland-06",
+      "kind": "map",
+      "status": "review",
+      "styleVersion": "caper-62",
+      "subject": "switzerland",
+      "original": {
+        "file": "assets/incoming/map-switzerland-06.png",
+        "width": 1536,
+        "height": 1024,
+        "cut": {
+          "left": 40,
+          "top": 40,
+          "width": 1440,
+          "height": 960
+        }
+      },
+      "files": [
+        {
+          "path": "assets/map-switzerland-06-480.webp",
+          "width": 480,
+          "height": 320
+        },
+        {
+          "path": "assets/map-switzerland-06-720.webp",
+          "width": 720,
+          "height": 480
+        },
+        {
+          "path": "assets/map-switzerland-06-1080.webp",
+          "width": 1080,
+          "height": 720
+        }
+      ]
+    }
+  ]
+}
